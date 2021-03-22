@@ -35,8 +35,8 @@
      "Chance": "45.69",
      "Random Chance": {
           "Toggle": "On",
-          "Min": "15.20",
-          "Max": "29.90",
+          "Min": "15.32",
+          "Max": "24.77",
           "If Base Bet": "0",
           "Reset Chance": "1"
      },
@@ -51,7 +51,7 @@
           }
      },
      "If Win": "0.8",
-     "If Lose": "1.2",
+     "If Lose": "1.32",
      "Repeat Jump If Lose": "off",
      "Jump If Lose": [{
           "Name": "Jump 1",

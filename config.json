@@ -88,7 +88,7 @@
      "Name Bet Set": "1|C 7-15 |R",
      "Base Bet": "0.01",
      "Max Bet": "0",
-     "Chance": "29.90",
+     "Chance": "23.23",
      "Random Chance": {
           "Toggle": "Off",
           "Min": "15",
@@ -106,7 +106,7 @@
               "Random":"On"
           }
      },
-     "If Win": "1",
+     "If Win": "0.91",
      "If Lose": "1.32",
      "Repeat Jump If Lose": "Off",
      "Jump If Lose": [{

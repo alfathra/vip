@@ -100,8 +100,8 @@
           "Bet": "Hi",
           "Hi / Low": {
               "Toggle": "ON",
-              "If Lose Streak": "5",
-              "If Win Streak": "12",
+              "If Lose Streak": "3",
+              "If Win Streak": "2",
               "If Bets":"2",
               "Random":"On"
           }
